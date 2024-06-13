@@ -38,3 +38,5 @@ should be 4 long named files here, go into them to find files that if opened in 
 what I did was copy the DailySave_0 file into the folder, then copied the long numbered files name and deleted it, and then renamed the DailySave_0 file to whatever the file name was in the folder except for the one that doesn't look the same in notepad. for example, the ones I replaced all had exact same writing but one out 4 at the Middle of the notepad file. another one was a lot shorter or locked very different writing in notepad and I did not touch that one at all i just Deleted the original 3 and replaced the 3 that looked the same and did not touch the last one.
 
 when I started up the game, I had my maxed Skills, Purple Tools, and my Town Rank, Museum, Ocean and Heritage. was already finished giving me all the achievements I would have unlocked from Steam on to my XGP. :)
+
+also the ProjectCoral-Win64-Shipping.CT Cheat Table for Cheat Engine only works for steam Version. :) 
