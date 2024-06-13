@@ -1,6 +1,8 @@
 # Coral-Island-Help-
 Coral Island Help :)
+
 Way to transfer saved data from Xbox Game Pass to Steam Coral Island.
+
 I went to: `%USERPROFILE%\AppData\Local\Packages`
 
 Looked for a folder with Coral Island in its name and found **HumbleBundle.CoralIsland_q2mcdwmzx4qja **
@@ -24,6 +26,8 @@ I copied the two files from my desktop into that folder
 I changed the name of the file with the numbers and letters to **DailySave_1.sav - ⚠️ important to add the .sav **
 
 I started the game an there was the right save
+
+
 
 
 Way to transfer saved data from Steam to Xbox Game Pass Coral Island.
